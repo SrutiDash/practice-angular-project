@@ -1,0 +1,6 @@
+app.component.html has app-root
+in todo.ts there are todo items like desc name etc passes as 
+string, boolean etc.
+in app.component.html todo items are beings imported inside 
+app-todo-item which is out todo-item.component.html
+those items are todo.ts items.
